@@ -1,9 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menus\s_ControlScreen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Walls_Move\s_WallMove_4.cs">
     <Files>
-      <File FileName="Assets\Scripts\Menus\s_MainMenu.cs" Line="25" Column="1" />
-      <File FileName="Assets\Scripts\Menus\s_ControlScreen.cs" Line="18" Column="32" />
+      <File FileName="Assets\Scripts\Walls_Move\s_WallMove_4.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\Walls_Move\s_WallMove_5.cs" Line="16" Column="32" />
+      <File FileName="Assets\Scripts\Walls_Move\s_WallMove_6.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\Walls_Move\s_WallMove_7.cs" Line="9" Column="32" />
+      <File FileName="Assets\Scripts\Walls_Move\s_WallMove_8.cs" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\Walls_Move\s_WallMove_9.cs" Line="27" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

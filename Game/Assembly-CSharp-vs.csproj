@@ -53,7 +53,15 @@
      <Compile Include="Assets\Scripts\Player\s_PlayerMove.cs" />
      <Compile Include="Assets\Scripts\Player\s_PlayerShoot.cs" />
      <Compile Include="Assets\Scripts\Player\s_PlayerWin.cs" />
-     <Compile Include="Assets\Scripts\Walls_Move\s_Wall_Move_1.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_1.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_2.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_3.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_4.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_5.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_6.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_7.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_8.cs" />
+     <Compile Include="Assets\Scripts\Walls_Move\s_WallMove_9.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Shaun/Documents/GitHub_Robot/Robot-Rampage/Game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

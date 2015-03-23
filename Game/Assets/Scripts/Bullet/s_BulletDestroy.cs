@@ -3,11 +3,9 @@ using System.Collections;
 
 public class s_BulletDestroy : MonoBehaviour {
 
-	public bool bang;
 
 	// Use this for initialization
 	void Start () {
-		bang = false;
 	}
 	
 	// Update is called once per frame
@@ -23,7 +21,6 @@ public class s_BulletDestroy : MonoBehaviour {
 			Destroy(gameObject);
 			Destroy(col.gameObject);
 			print ("bam");
-			bang = true;
 		}
 
 
