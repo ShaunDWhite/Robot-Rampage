@@ -55,7 +55,7 @@
      <Compile Include="Assets\Scripts\Player\s_PlayerWin.cs" />
      <Compile Include="Assets\Scripts\Walls_Move\s_Wall_Move_1.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>I:/Uni stuff/Trimester 4/Studio/Robot Game'/Game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/Shaun/Documents/GitHub_Robot/Robot-Rampage/Game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
