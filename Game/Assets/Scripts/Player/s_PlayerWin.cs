@@ -3,16 +3,20 @@ using System.Collections;
 
 public class s_PlayerWin : MonoBehaviour {
 
+
 	// Use this for initialization
 	void Start () {
-	
+
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if(transform.position.x >= 155){
+	
+	}
+
+	void OnTriggerEnter(Collider col){
+		if(col.gameObject.name == "Win Zone"){
 			Application.LoadLevel("Win Screen");
 		}
-	
 	}
 }
