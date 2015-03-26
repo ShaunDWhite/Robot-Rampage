@@ -17,8 +17,5 @@ public class s_MainMenu : MonoBehaviour {
 		if (gameObject.name == "Play") {
 			Application.LoadLevel("Scene_1");
 		} 
-		else if (gameObject.name == "Controls") {
-			Application.LoadLevel("Control_Screen");
-		}
 	}
 }
