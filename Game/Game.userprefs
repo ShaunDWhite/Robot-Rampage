@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Win Screen\s_Reload.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Laser Wall\s_LaserWall.cs">
     <Files>
-      <File FileName="Assets\Scripts\Win Screen\s_Reload.cs" Line="21" Column="32" />
+      <File FileName="Assets\Scripts\Laser Wall\s_LaserWall.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\Bullet\s_BulletDestroy.cs" Line="19" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
