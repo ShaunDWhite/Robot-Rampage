@@ -22,8 +22,5 @@ public class s_BulletDestroy : MonoBehaviour {
 			Destroy(col.gameObject);
 			print ("bam");
 		}
-
-
-
 	}
 }

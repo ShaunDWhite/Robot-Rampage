@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\Audio\s_WinScreenAudio.cs" />
      <Compile Include="Assets\Scripts\Bullet\s_BulletDestroy.cs" />
      <Compile Include="Assets\Scripts\Bullet\s_BulletMove.cs" />
+     <Compile Include="Assets\Scripts\Laser Wall\s_LaserWall.cs" />
      <Compile Include="Assets\Scripts\Menus\s_MainMenu.cs" />
      <Compile Include="Assets\Scripts\Menus\s_MainToControl.cs" />
      <Compile Include="Assets\Scripts\Player\s_PlayerMove.cs" />
