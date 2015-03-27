@@ -74,6 +74,7 @@
      <Compile Include="Assets\Scripts\Walls_Move\Third Panel\s_WallMove_15.cs" />
      <Compile Include="Assets\Scripts\Walls_Move\Third Panel\s_WallMove_16.cs" />
      <Compile Include="Assets\Scripts\Walls_Move\Third Panel\s_WallMove_17.cs" />
+     <Compile Include="Assets\Scripts\Win Screen\s_Reload.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Shaun/Documents/GitHub_Robot/Robot-Rampage/Game/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

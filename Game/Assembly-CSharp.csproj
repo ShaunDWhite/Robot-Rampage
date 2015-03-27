@@ -74,6 +74,7 @@
      <Compile Include="Assets\Scripts\Walls_Move\Third Panel\s_WallMove_15.cs" />
      <Compile Include="Assets\Scripts\Walls_Move\Third Panel\s_WallMove_16.cs" />
      <Compile Include="Assets\Scripts\Walls_Move\Third Panel\s_WallMove_17.cs" />
+     <Compile Include="Assets\Scripts\Win Screen\s_Reload.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>
